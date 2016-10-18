@@ -1,5 +1,5 @@
-CREATE DATABASE ram_slam_2015;
-use ram_slam_2015;
+CREATE DATABASE nat_west_t20_2015;
+use  nat_west_t20_2015;
 CREATE TABLE match_details(
 	match_id INT(8) NOT NULL KEY,
     team1 VARCHAR(30) NOT NULL,
