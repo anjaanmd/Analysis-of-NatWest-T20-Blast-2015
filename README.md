@@ -16,12 +16,11 @@ These files are generated using scraper.py(which is available in an another repo
 Using bash concatenated the relevant files to make the following files:
 
 
-- 2015_Eng_Natwest_t20_blast.first_innings_batting.csv
-- 2015_Eng_Natwest_t20_blast.first_innings_bowling.csv
+- 2015_Eng_Natwest_t20_blast.batting.csv
+- 2015_Eng_Natwest_t20_blast.bowling.csv
 - 2015_Eng_Natwest_t20_blast.match_details.csv
 - 2015_Eng_Natwest_t20_blast.score_details.csv
-- 2015_Eng_Natwest_t20_blast.second_innings_batting.csv
-- 2015_Eng_Natwest_t20_blast.second_innings_bowling.csv
+
 
 
 Then these files are added to a MySQL database.
